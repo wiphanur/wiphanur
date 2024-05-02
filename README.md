@@ -4,8 +4,8 @@ I'm a **Software Engineer** 🖥️ and **Data Scientist** 📊 with a passion f
 
 #### 🚀 About Me
 - 🎓 Graduated from University of Southern Calitonia (USC) with a Master's degree in Data Science.
-- 💼 Currently working at USC as a Data Scientist.
-- 🌱 I’m currently learning **Advanced Machine Learning Techniques**,  **Cloud Architecture** (AWS, GCP), and **Performance Monitoring and Optimization for Backend Systems**.
+- 💼 Currently working at USC as a Technical Data Analyst and Researcher | Data Scientist.
+- 🌱 I’m currently learning **Advanced Machine Learning Techniques**,  **Cloud Architecture** (AWS, GCP, Azure), and **Performance Monitoring and Optimization for Backend Systems**.
 - 🔭 Working on several side projects including Review Transformer, Heart Disease and Malaria Classification.
 - 📫 How to reach me: piwat.wip@gmail.com or wiphanur@usc.edu
 
